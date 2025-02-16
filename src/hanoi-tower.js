@@ -1,4 +1,3 @@
-const { NotImplementedError } = require('../extensions/index.js');
 
 /**
  * Calculate turns number and time (in seconds) required
